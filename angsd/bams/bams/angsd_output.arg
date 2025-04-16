@@ -1,0 +1,2 @@
+	-> angsd version:  (htslib: 1.16) build(Mar  7 2025 20:39:38)
+	-> /angsd/angsd -out /angsd/bams/angsd_output -b /angsd/bams/bam.filelist -GL 1 -doMajorMinor 1 -doMaf 2 -nThreads 5 
